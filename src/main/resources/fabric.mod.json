@@ -3,15 +3,16 @@
 	"id": "nomorepodzol",
 	"version": "${version}",
 	"name": "NoMorePodzol",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "NoMorePodzol is a lightweight Fabric mod that prevents large spruce trees from generating podzol when grown.",
 	"authors": [
 		"Siskin"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/luuknijkmp/NoMorePodzol",
+		"issues": "https://github.com/luuknijkmp/NoMorePodzol/issues"
 	},
-	"license": "CC0-1.0",
+	"license": "MIT",
 	"icon": "assets/nomorepodzol/icon.png",
 	"environment": "*",
 	"entrypoints": {
