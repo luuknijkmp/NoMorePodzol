@@ -1,0 +1,4 @@
+{
+  "gamerule.nomorepodzol.disable_spruce_podzol": "Disable Spruce Podzol",
+  "gamerule.nomorepodzol.disable_spruce_podzol.description": "Prevents giant spruce trees from generating podzol."
+}
